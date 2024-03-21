@@ -1,0 +1,45 @@
+{
+  "name": "omnisin",
+  "version": "1.0.0",
+  "description": "Generate a search engine friendly sitemap.xml using a Gulp stream",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LonHeidenreich/omnisin.git"
+  },
+  "license": "MIT",
+  "author": "NyaVon",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "js",
+    "javascript",
+    "SEO",
+    "autem",
+    "sitemap.xml",
+    "eum",
+    "libero",
+    "xml"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.6.1",
+    "multimatch": "^2.0.0",
+    "slash": "^1.0.0",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.2",
+    "mocha": "^2.2.4",
+    "should": "^8.2.1"
+  }
+}
